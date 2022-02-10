@@ -1,15 +1,28 @@
-body {background-color: }
+html, body {background-color: #white;
+    margin: 0;
+    padding: 0}
 
-p {color: #495867}
-
-h1 {text-align: center; 
-    font-family: 'Sora', sans-serif;
-    font-size: 6em;
-    color: #577399;
-    border-top: 2px solid #BDD5EA;
-    border-bottom: 2px solid #BDD5EA;
-    width: 1000px;
-    margin-top:50px;
-    margin-left:auto;
-    margin-right:auto;
+p {color: #495867;
     }
+
+.head-container {margin: 0;
+    width: 100vw;
+    text-align: center;}
+
+
+.centered {position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%)}
+
+h1 {font-family: 'Bebas Neue', cursive;
+    font-size: 10em;
+    color: #525353;
+    }
+
+.main {width:1200px;
+    margin: auto;
+    font-family: 'Space Mono', monospace;
+    }   
+
+.h2 {font-family: 'Sora', sans-serif;}
