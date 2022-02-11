@@ -18,10 +18,15 @@ html, body {margin:0;}
 .main {display: inline-block;
 width: 55%}
 
+.ingredients {margin:0}
+
 h1, h3, h4 {font-family: 'Space Mono', monospace;
     color:black}
 
-p, ul, ol {color:#495867;
+h3, ol, ul, table {margin-top: 0;
+    margin-bottom: 10px}
+
+p, ul, ol, table{color:#495867;
     font-family: 'Space Mono', monospace;}
 
 
