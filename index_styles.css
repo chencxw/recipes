@@ -63,4 +63,5 @@ a:hover {color: #dda57b}
 .credit {position:absolute;
     bottom:0vh;
     margin-left:10px;
-    color:#999999}
+    color:#999999;
+    font-family: 'Space Mono', monospace;}
