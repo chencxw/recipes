@@ -42,7 +42,7 @@ h1 {font-family: 'Bebas Neue', cursive;
     color: #2A2A2A;
     }
 
-.main {
+.main {position: relative;
     width:100%;
     height:100vh}
 
@@ -52,7 +52,17 @@ h1 {font-family: 'Bebas Neue', cursive;
     font-family: 'Space Mono', monospace;
     }   
 
+a, a:active {text-decoration: none;
+    color: inherit}
+
+a:hover {color: #dda57b}
+
 .h2 {font-family: 'Sora', sans-serif;
     color:black}
 
 .main_text {color:#495867;}
+
+.credit {position:absolute;
+    bottom:0vh;
+    margin-left:10px;
+    color:#999999}
