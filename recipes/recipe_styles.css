@@ -1,6 +1,7 @@
-html, body {margin:0}
+html, body {margin:0;}
 
-.image {float: left;
+.image {display: inline-block;
+    vertical-align: top;
     height:100vh;
     margin-right:50px}
 
@@ -14,7 +15,8 @@ html, body {margin:0}
 #hline {width: 30%;
     border-color: #E2C681}
 
-.main {display: inline}
+.main {display: inline-block;
+width: 55%}
 
 h1, h3, h4 {font-family: 'Space Mono', monospace;
     color:black}
