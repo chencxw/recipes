@@ -1,0 +1,29 @@
+html, body {margin:0}
+
+.image {float: left;
+    height:100vh;
+    margin-right:50px}
+
+#title {margin-top:0;
+    margin-bottom:0;}
+
+.head_text {text-align: center;}
+
+#credit {margin-top: 0}
+
+#hline {width: 30%;
+    border-color: #E2C681}
+
+.main {display: inline}
+
+h1, h3, h4 {font-family: 'Space Mono', monospace;
+    color:black}
+
+p, ul, ol {color:#495867;
+    font-family: 'Space Mono', monospace;}
+
+
+a, a:active {text-decoration: none;
+    color: inherit}
+
+a:hover {color: #dda57b}
