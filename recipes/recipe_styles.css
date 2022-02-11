@@ -3,6 +3,7 @@ html, body {margin:0;}
 .image {display: inline-block;
     vertical-align: top;
     height:100vh;
+    width:40vw;
     margin-right:50px}
 
 #title {margin-top:0;
@@ -16,7 +17,7 @@ html, body {margin:0;}
     border-color: #E2C681}
 
 .main {display: inline-block;
-width: 55%}
+    width:50vw;}
 
 .ingredients {margin:0}
 
