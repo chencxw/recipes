@@ -1,4 +1,4 @@
-body {background-color: #white;
+body {background-color: white;
     margin: 0;
     padding: 0}
 
@@ -14,8 +14,8 @@ body {background-color: #white;
     z-index:999;
     top:20%;
     left:0;
-    right;0
-    margin:0 auto;
+    right:0;
+    margin: 0 auto;
     text-align:center;
     width:100%;
     background: radial-gradient(
@@ -30,7 +30,7 @@ body {background-color: #white;
     z-index:999;
     top:80vh;
     left:0;
-    right;0
+    right:0;
     margin:0 auto;
     text-align:center;
     width:100%}
@@ -52,10 +52,9 @@ h1 {font-family: 'Bebas Neue', cursive;
     font-family: 'Space Mono', monospace;
     }   
 
-a, a:active {text-decoration: none;
-    color: inherit}
+a {color: #dda57b}
 
-a:hover {color: #dda57b}
+a:hover {color: #eed4c1}
 
 
 .main_text {color:#495867;}

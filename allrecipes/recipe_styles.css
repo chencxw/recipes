@@ -31,7 +31,6 @@ p, ul, ol, table{color:#495867;
     font-family: 'Space Mono', monospace;}
 
 
-a, a:active {text-decoration: none;
-    color: inherit}
+a {color: #dda57b}
 
-a:hover {color: #dda57b}
+a:hover {color: #eed4c1}
